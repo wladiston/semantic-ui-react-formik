@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render all checkbox 1`] = `
+<form
+  class="ui form"
+>
+  <div
+    class="field"
+  >
+    <div
+      class="ui checkbox"
+    >
+      <input
+        class="hidden"
+        id="field-1"
+        readonly=""
+        tabindex="0"
+        type="checkbox"
+        value=""
+      />
+      <label
+        for="field-1"
+      >
+        My value 1
+      </label>
+    </div>
+  </div>
+  <div
+    class="field"
+  >
+    <div
+      class="ui checkbox"
+    >
+      <input
+        class="hidden"
+        id="field-2"
+        readonly=""
+        tabindex="0"
+        type="checkbox"
+        value=""
+      />
+      <label
+        for="field-2"
+      >
+        My value 2
+      </label>
+    </div>
+  </div>
+</form>
+`;
