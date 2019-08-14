@@ -79,4 +79,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [wladiston](https://github.com/wladiston)
+MIT © [MAZECX](https://github.com/mazecx)
